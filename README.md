@@ -1,0 +1,1 @@
+# vanish-plugin-1.20.4
