@@ -1,0 +1,6 @@
+name: VanishPlugin
+version: '1.0-SNAPSHOT'
+main: com.tumamaila.vanishPlugin.VanishPlugin
+api-version: '1.20'
+commands:
+  vanish:
